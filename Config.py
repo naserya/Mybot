@@ -1,4 +1,4 @@
-BOT_TOKEN = import os
+import os
 
 BOT_TOKEN = os.getenv("BOT_TOKEN") "PUT_BOT_TOKEN_HERE"
 
